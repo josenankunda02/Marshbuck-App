@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425811652891",
+    "project_id": "marshbuck-f9e5e",
+    "storage_bucket": "marshbuck-f9e5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425811652891:android:0a5873b11f512ca1e323be",
+        "android_client_info": {
+          "package_name": "com.example.marshbuck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs96FkQo9glQK0vfFTXQ1RJKR3Ml92KWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
